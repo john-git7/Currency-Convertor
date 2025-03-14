@@ -1,7 +1,7 @@
 html,
 body{
    font-family: 'Poppins', sans-serif;
-   background-color:#ffffff;
+   background-color:black;
    margin: 0;
    padding: 0;
    box-sizing: border-box;
@@ -15,7 +15,7 @@ body{
   }
   
   .container{
-    background-color:#4a4b4e;
+    background-color:#000;
     padding:24px;
     border-radius: 20px;
     width: 490px;
@@ -38,7 +38,7 @@ body{
     height: 2.5rem;
     font-size: 1.2em;
     cursor: pointer;
-    background-color:rgb(255, 255, 255);
+    background-color:grey;
     outline: none;
     color: black;
     margin: 0.2em 0;
@@ -68,7 +68,7 @@ body{
   button{
     width: 50%;
     height: 40px;
-    background-color:rgb(77, 242, 112);
+    background-color:orange;
     color: #ffffff;
     border-radius: 10px;
     border: none;
